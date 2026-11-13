@@ -1,2 +1,1 @@
-# IPG-Rec
-The official implementation of the paper "Learning to Reason with Incremental Predictive Gains for Generative Recommendation"
+We will release our codes as soon as possible.
